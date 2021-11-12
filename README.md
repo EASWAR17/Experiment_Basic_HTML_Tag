@@ -14,6 +14,20 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
-# OUPUT
-*OUTPUT*
+~~~<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Name:EASWAR.J</h1>
+<h2>refno:21002130</h2>
+<h3>dept:Artificial intelligence and data science</h3>
+</body>
+</html>
+~~~
+# OUTPUT
+<html>
+<body>
+<h1>Name:EASWAR.J</h1>
+<h2>refno:21002130</h2>
+<h3>dept:Artificial intelligence and data science</h3>
+</body>
+</html>
